@@ -1,13 +1,13 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Rollbar Next.js Starter Kit',
-  description: 'Ship faster with confidence — kickstart error monitoring in your Next.js app with Rollbar',
+  title: 'Budget Personnel',
+  description: 'Gérez votre budget personnel facilement et efficacement',
 };
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="fr">
       <body>{children}</body>
     </html>
   );

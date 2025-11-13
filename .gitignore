@@ -27,14 +27,10 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
-.env.local
-
-# Rollbar tokens (just in case)
-*rollbar*token*
 
 # vercel
 .vercel
-
+cdc.md
 # typescript
 *.tsbuildinfo
 next-env.d.ts
